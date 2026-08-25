@@ -1,0 +1,7 @@
+interface:
+  display_name: "Next AI Draw.io Diagrams"
+  short_description: "Create portable, validated Draw.io diagrams with icon catalogs"
+  icon_small: "./assets/skill-icon-small.svg"
+  icon_large: "./assets/skill-icon.svg"
+  brand_color: "#F08705"
+  default_prompt: "Use $next-ai-drawio-diagrams to create a portable Draw.io diagram and visually verify the export."

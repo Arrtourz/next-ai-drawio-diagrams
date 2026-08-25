@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Draw.io diagram skill</title>
+  <desc id="desc">Three connected diagram nodes on an orange background.</desc>
+  <rect width="256" height="256" rx="48" fill="#F08705"/>
+  <path d="M76 84h47M133 84h47M128 103v42" fill="none" stroke="#FFF" stroke-width="12" stroke-linecap="round"/>
+  <path d="m170 72 20 12-20 12M128 137l12 20-12 20" fill="none" stroke="#FFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="28" y="56" width="52" height="56" rx="12" fill="#FFF"/>
+  <rect x="176" y="56" width="52" height="56" rx="12" fill="#FFF"/>
+  <rect x="102" y="176" width="52" height="36" rx="10" fill="#FFF"/>
+</svg>
+
